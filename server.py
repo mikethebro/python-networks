@@ -6,7 +6,7 @@ import atexit
 # create a socket object
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-TCP_IP = '192.168.0.118'
+TCP_IP = '192.168.0.158'
 TCP_PORT = 3000
 BUFFER_SIZE = 2048
 
